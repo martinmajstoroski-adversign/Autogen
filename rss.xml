@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Dein Feed Titel</title>
+    <title>Archer Preparing to Shoot at a Zebra</title>
     <link>https://dein-username.github.io/dein-repo</link>
     <description>Beschreibung deines Feeds</description>
     <item>
-      <title>Saulos Chilima: Malawi VP's plane may have crashed in forest, army says</title>
+      <title>Archer Preparing to Shoot at a Zebra</title>
       <link>https://dein-username.github.io/dein-repo/artikel-1</link>
       <description>Beschreibung des Artikels 1</description>
       <enclosure url="https://dein-username.github.io/dein-repo/images/bild1.jpg" type="image/jpeg" />
